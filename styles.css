@@ -194,8 +194,8 @@ p {
     }
 
     .skill-row {
-        width: 50%;
-        margin: 50px auto;
+        width: 70%;
+        margin: 25px auto 0 auto;
         text-align: center;
     }
     body {
@@ -223,6 +223,16 @@ p {
         position: absolute;
         top: 200px;
         left: 270px;
+    }
+    .intro {
+        width: 60%;
+        margin: auto;
+        text-align: center;
+    }
+    .text{
+        width: 100%;
+        margin: auto;
+        text-align: center;
     }
     
 }
